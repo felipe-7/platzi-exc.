@@ -11,7 +11,7 @@
         <th>Nombre</th>
         <th>Precio</th>
         <th>Cap. de Mercado</th>
-        <th>Variación 24hs</th>
+        <th>Variación 24 hrs</th>
         <td class="hidden sm:block">
           <input
             class="bg-gray-100 focus:outline-none border-b border-gray-400 py-2 px-4 block w-full appearance-none leading-normal"
